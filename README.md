@@ -1,2 +1,1 @@
-# .github
-:D
+Organization front page configuration
