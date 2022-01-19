@@ -8,5 +8,5 @@
     </a>
 </p>
 <p align="right">
-    <b>© 2021 Testausserveri ry</b>
+    <b>© 2022 Testausserveri ry</b>
 </p>
