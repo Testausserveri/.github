@@ -1,12 +1,7 @@
-<p align="center">
-    <a href="https://testausserveri.fi" float="left">
-        <img align="center" height="auto" width="100" src="https://github.com/Testausserveri/.github/blob/ff809ce73013a94ededff0f9cabf57d5d18b2c52/assets/Gradient_logo.png">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://testausserveri.fi" float="left">
-        <img align="center" height="auto" width="700" src="https://github.com/Testausserveri/.github/blob/ff809ce73013a94ededff0f9cabf57d5d18b2c52/assets/Gradient_text.png">
-    </a>
-</p>
-<p align="right">
-    <b>© 2022 Testausserveri ry</b>
-</p>
+<img src="https://user-images.githubusercontent.com/46541386/171056126-6acb3a85-dc26-49ce-b8c0-00075a7b93c8.png" height="100">
+
+Testausserveri is an open community for all young people who are passionate about coding, ethical hacking, and technology in general. We are working together to develop a variety of interesting projects that you can check out here.
+
+We aim towards a low threshold for anyone to [join our discussions on Discord](https://discord.testausserveri.fi). Our warm community encourages us to develop ourselves in this field.
+
+Our community is a registered non-profit association in Finland. 🇫🇮
